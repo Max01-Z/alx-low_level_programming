@@ -3,6 +3,7 @@ In this project, I learned what static libraries are and practiced creating and 
 
 Tests ✔️
 tests: Folder of test files. Provided by Holberton School.
+
 Tasks 📃
 0. A library is not a luxury but one of the necessities of life
 
